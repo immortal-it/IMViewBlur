@@ -8,7 +8,7 @@
 
 `IMViewBlur`  is a clean and easy-to-use View Blur meant to blur view on iOS.
 
-<img src="https://github.com/immortal-it/IMViewBlur/main/Gifs/demon001.gif">
+<img src="https://github.com/immortal-it/IMViewBlur/main/Images/demon001.gif">
 
 ## Requirements
 
