@@ -6,7 +6,7 @@
 [![CocoaPods compatible](https://img.shields.io/badge/CocoaPods-compatible-green.svg?style=flat)](https://cocoapods.org)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
-`IMViewBlur`  is a clean and easy-to-use View Blur meant to blur view on iOS.
+You can easily use `IMViewBlur` for efficient view blurring on iOS. 
 
 <img src="https://github.com/immortal-it/IMViewBlur/main/Images/demon001.gif">
 
