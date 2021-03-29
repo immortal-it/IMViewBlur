@@ -27,5 +27,10 @@ import PackageDescription
 let package = Package(name: "IMViewBlur",
                       platforms: [.iOS(.v10)],
                       products: [.library(name: "IMViewBlur", targets: ["IMViewBlur"])],
-                      targets: [.target(name: "IMViewBlur", path: "IMViewBlur")],
+                      targets: [.target(name: "IMViewBlur",
+                                        path: "IMViewBlur",
+                                        linkerSettings: [
+                                            .linkedFramework("Accelerate", .when(platforms: [.iOS, .macOS, .tvOS, .watchOS]))
+                                        ])
+                      ],
                       swiftLanguageVersions: [.v5])
