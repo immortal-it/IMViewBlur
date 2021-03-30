@@ -8,7 +8,7 @@
 
 You can easily use `IMViewBlur` for efficient view blurring on iOS. 
 
-<img src="https://github.com/immortal-it/IMViewBlur/main/Images/demon001.gif">
+<img src="https://github.com/immortal-it/IMViewBlur/main/Images/demon001.png">
 
 ## Requirements
 
